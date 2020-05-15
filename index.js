@@ -1,2 +1,2 @@
 // Write your solution here!
-const arr =[]
+const arr =["Milo", "Otis", "Garfield"];
